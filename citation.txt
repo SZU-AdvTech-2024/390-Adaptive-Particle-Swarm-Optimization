@@ -1,0 +1,10 @@
+@article{REPO390,
+    author = "Zhan, Zhi-Hui and Zhang, Jun and Li, Yun and Chung, Henry Shu-Hung",
+    journal = "IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)",
+    number = "6",
+    pages = "1362--1381",
+    publisher = "IEEE",
+    title = "{Adaptive particle swarm optimization}",
+    volume = "39",
+    year = "2009"
+}
